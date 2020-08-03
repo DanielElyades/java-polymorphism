@@ -1,8 +1,4 @@
 # java-polymorphism
-
-Uma empresa possui funcionários próprios e terceirizados. Para cada funcionário, deseja-se registrar nome, horas trabalhadas 
-e vlor por hora. Funcionários terceirizados possuem ainda uma despesa adicional.
-O pagamento dos funcionários corresponde ao valor da hora multiplicado pelas horas trabalhadas, 
-sendo qie os funcionários terceirizados ainda recebem um bônus correspondente a 110% de sua despesa adiciional.
-Fazer um programa para ler os dados de N funcionários(N fornecido pelo usuário) e armazená-los em uma lista. 
-Depois de ler todos os dados, mostrar nome e pagamento de cada funcionário na mesma ordem em que foram digitados.
+ 
+ Em Programação Orientada a Objetos, polimorfismo é recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos diferentes, tendo assim comportamentos diferentes conforme cada tipo específico.
+Usando o conceito de polimorfismo a vaiável da superclasse recebe objeto da subclasse. O mesmo acontece no upcasting.
